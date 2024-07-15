@@ -120,7 +120,7 @@ public static class Application
         {
             "BOOL" or "BOOL*" => "bool",
             "const char*" => "string",
-            "Hash" => "ulong",
+            "Hash" or "Hash*" => "ulong",
             "Cam" => "Camera",
             "Pickup" or "Interior" or "ScrHandle" or "ScrHandle*" => "uint",
             "FireId" => "Fire",

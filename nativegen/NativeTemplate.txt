@@ -1,0 +1,18 @@
+// This file was generated with https://github.com/DekoKiyo/nativegen
+
+using Rage;
+using Rage.Native;
+
+namespace BaseLib;
+
+#pragma warning disable CS1591
+
+/// <summary>
+/// Date this file was generated: {0}
+/// </summary>
+public static class Natives
+{{
+{1}
+}}
+
+#pragma warning restore CS1591
